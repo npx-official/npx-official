@@ -42,7 +42,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [HTB Paperwork Walkthrough](link) | Complete exploitation guide with all steps | ✅ Completed |
+| [HTB Paperwork Walkthrough](https://github.com/npx-official/HTB-Paperwork-Walkthrough) | Complete exploitation guide with all steps | ✅ Completed |
 | [Custom Exploit Scripts](link) | Custom exploit scripts for various vulnerabilities | 🚧 In Development |
 | [Bug Bounty Tools](link) | Automation tools for bug bounty hunting | 🚧 In Development |
 | [Arabic Cybersecurity Blog](link) | Articles and content in Arabic | 📝 In Writing |
