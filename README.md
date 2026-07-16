@@ -1,15 +1,24 @@
 # 👋 Hi, I'm  night pulse X
-       __    __  _______   __    __       
-      /  \  /  |/       \ /  |  /  |      
-      $$  \ $$ |$$$$$$$  |$$ |  $$ |      
-      $$$  \$$ |$$ |__$$ |$$  \/$$/       
-      $$$$  $$ |$$    $$/  $$  $$<        
-      $$ $$ $$ |$$$$$$$/    $$$$  \       
-      $$ |$$$$ |$$ |       $$ /$$  |      
-      $$ | $$$ |$$ |      $$ |  $$ |      
-      $$/   $$/ $$/       $$/   $$/       
-                                          
-
+                                                                           
+                                                                           
+     NNNNNNNN        NNNNNNNNPPPPPPPPPPPPPPPPP   XXXXXXX       XXXXXXX     
+     N:::::::N       N::::::NP::::::::::::::::P  X:::::X       X:::::X     
+     N::::::::N      N::::::NP::::::PPPPPP:::::P X:::::X       X:::::X     
+     N:::::::::N     N::::::NPP:::::P     P:::::PX::::::X     X::::::X     
+     N::::::::::N    N::::::N  P::::P     P:::::PXXX:::::X   X:::::XXX     
+     N:::::::::::N   N::::::N  P::::P     P:::::P   X:::::X X:::::X        
+     N:::::::N::::N  N::::::N  P::::PPPPPP:::::P     X:::::X:::::X         
+     N::::::N N::::N N::::::N  P:::::::::::::PP       X:::::::::X          
+     N::::::N  N::::N:::::::N  P::::PPPPPPPPP         X:::::::::X          
+     N::::::N   N:::::::::::N  P::::P                X:::::X:::::X         
+     N::::::N    N::::::::::N  P::::P               X:::::X X:::::X        
+     N::::::N     N:::::::::N  P::::P            XXX:::::X   X:::::XXX     
+     N::::::N      N::::::::NPP::::::PP          X::::::X     X::::::X     
+     N::::::N       N:::::::NP::::::::P          X:::::X       X:::::X     
+     N::::::N        N::::::NP::::::::P          X:::::X       X:::::X     
+     NNNNNNNN         NNNNNNNPPPPPPPPPP          XXXXXXX       XXXXXXX     
+                                                                           
+                                                        
 ## 🚀 About Me
 - 🔐 **Offensive Security Enthusiast** | CTF Player | Bug Bounty Hunter
 - 🎯 Currently working on: **OSCP Preparation** & **HTB Machines**
