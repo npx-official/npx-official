@@ -51,7 +51,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🚀 HTB Writeups - Machines](https://github.com/npx-official/HTB-WRITEUPS-MACHINES) | Complete exploitation guide with all steps | ✅ Completed |
+| [🚀 HTB Writeups - Machines](https://github.com/npx-official/HTB-WRITEUPS-MACHINES) | Complete exploitation guide with all steps | 🚧 In Development |
 | [Custom Exploit Scripts](link) | Custom exploit scripts for various vulnerabilities | 🚧 In Development |
 | [Bug Bounty Tools](link) | Automation tools for bug bounty hunting | 🚧 In Development |
 | [Arabic Cybersecurity Blog](link) | Articles and content in Arabic | 📝 In Writing |
