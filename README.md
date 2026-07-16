@@ -57,11 +57,8 @@
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [your-email] |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](link) |
-| 🐦 **Twitter/X** | [@your-handle](link) |
-| 🎯 **Hack The Box** | [https://app.hackthebox.com/users/your-id](link) |
-| 🏴 **TryHackMe** | [link-to-your-profile](link) |
+
+| 🎯 **Hack The Box** | [https://app.hackthebox.com/users/2207141](link) |
 
 ---
 
