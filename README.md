@@ -67,7 +67,7 @@
 | Platform | Link |
 |----------|------|
 
-| 🎯 **Hack The Box** | [https://app.hackthebox.com/users/2207141](link) |
+| 🎯 **Hack The Box** | [link](https://app.hackthebox.com/users/2207141) |
 
 ---
 
