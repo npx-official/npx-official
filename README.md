@@ -1,22 +1,22 @@
 # 👋 Hi, I'm  night pulse X
                                                                            
                                                                            
-     NNNNNNNN        NNNNNNNNPPPPPPPPPPPPPPPPP   XXXXXXX       XXXXXXX     
-     N:::::::N       N::::::NP::::::::::::::::P  X:::::X       X:::::X     
-     N::::::::N      N::::::NP::::::PPPPPP:::::P X:::::X       X:::::X     
-     N:::::::::N     N::::::NPP:::::P     P:::::PX::::::X     X::::::X     
-     N::::::::::N    N::::::N  P::::P     P:::::PXXX:::::X   X:::::XXX     
-     N:::::::::::N   N::::::N  P::::P     P:::::P   X:::::X X:::::X        
-     N:::::::N::::N  N::::::N  P::::PPPPPP:::::P     X:::::X:::::X         
-     N::::::N N::::N N::::::N  P:::::::::::::PP       X:::::::::X          
-     N::::::N  N::::N:::::::N  P::::PPPPPPPPP         X:::::::::X          
-     N::::::N   N:::::::::::N  P::::P                X:::::X:::::X         
-     N::::::N    N::::::::::N  P::::P               X:::::X X:::::X        
-     N::::::N     N:::::::::N  P::::P            XXX:::::X   X:::::XXX     
-     N::::::N      N::::::::NPP::::::PP          X::::::X     X::::::X     
-     N::::::N       N:::::::NP::::::::P          X:::::X       X:::::X     
-     N::::::N        N::::::NP::::::::P          X:::::X       X:::::X     
-     NNNNNNNN         NNNNNNNPPPPPPPPPP          XXXXXXX       XXXXXXX     
+     NNNNNNNN        NNNNNNNN  PPPPPPPPPPPPPPPPP      XXXXXXX       XXXXXXX     
+     N:::::::N       N::::::N  P::::::::::::::::P     X:::::X       X:::::X     
+     N::::::::N      N::::::N  P::::::PPPPPP:::::P    X:::::X       X:::::X     
+     N:::::::::N     N::::::N  PP:::::P     P:::::P   X::::::X     X::::::X     
+     N::::::::::N    N::::::N   P::::P     P:::::PX   XX:::::X   X:::::XXX     
+     N:::::::::::N   N::::::N   P::::P     P:::::P      X:::::X X:::::X        
+     N:::::::N::::N  N::::::N   P::::PPPPPP:::::P        X:::::X:::::X         
+     N::::::N N::::N N::::::N   P:::::::::::::PP          X:::::::::X          
+     N::::::N  N::::N:::::::N   P::::PPPPPPPPP            X:::::::::X          
+     N::::::N   N:::::::::::N   P::::P                   X:::::X:::::X         
+     N::::::N    N::::::::::N   P::::P                  X:::::X X:::::X        
+     N::::::N     N:::::::::N   P::::P               XXX:::::X   X:::::XXX     
+     N::::::N      N::::::::N  PP::::::PP             X::::::X     X::::::X     
+     N::::::N       N:::::::N  P::::::::P             X:::::X       X:::::X     
+     N::::::N        N::::::N  P::::::::P             X:::::X       X:::::X     
+     NNNNNNNN         NNNNNNN  PPPPPPPPPP             XXXXXXX       XXXXXXX     
                                                                            
                                                         
 ## 🚀 About Me
