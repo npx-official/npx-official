@@ -63,13 +63,13 @@
 |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark) | ![Trophies](https://github-profile-trophy.vercel.app/?username=npx-official&theme=dark&no-frame=true&row=1) |
 
 ## 📫 How to Reach Me
-
 | Platform | Link |
 |----------|------|
 | 🎯 **Hack The Box** | [link](https://app.hackthebox.com/users/2207141) |
 | 🛡️ **Try Hack Me** | [link](https://tryhackme.com/p/npx.off) |
-|  **linkedin** | [link](https://www.linkedin.com/in/night-pulse-x-337a89275) |
----
+| 🔗 **LinkedIn** | [link](https://www.linkedin.com/in/night-pulse-x-337a89275) |
+| 🧵 **Reddit** | [link](https://www.reddit.com/user0-0-OFF/) |
+
 
 ⭐️ **Feel free to connect or collaborate!**  
 🚀 **Let's hack the world together!**
