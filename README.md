@@ -67,7 +67,7 @@
 | Platform | Link |
 |----------|------|
 | 🎯 **Hack The Box** | [link](https://app.hackthebox.com/users/2207141) |
-|  **Try Hack Me** | [link](https://tryhackme.com/p/npx.off) |
+| 🛡️ **Try Hack Me** | [link](https://tryhackme.com/p/npx.off) |
 ---
 
 ⭐️ **Feel free to connect or collaborate!**  
