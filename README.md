@@ -60,7 +60,7 @@
 
 | Streak | Trophies |
 |--------|----------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark) | ![Trophies](https://github-profile-trophy.vercel.app/?username=npx-official&theme=dark&no-frame=true&row=1) |
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark) | ![Trophies](https://github-profile-trophy.vercel.app/?username=npx-official&theme=dark&no-frame=true&row=1) |
 
 ## 📫 How to Reach Me
 
