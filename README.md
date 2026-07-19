@@ -45,7 +45,7 @@
 - 📝 **HTB Paperwork** - Complete machine walkthrough
 - 🛠️ **Custom Exploit Scripts** - Collection of exploit scripts
 - 🔍 **Bug Bounty Automation** - Automation tools for bug hunting
-- 📚 **Arabic Cybersecurity Content** - Arabic content in cybersecurity
+- 📚 **Eng  Cybersecurity Content** - Eng content in cybersecurity
 
 ## 📌 Featured Projects
 
@@ -54,7 +54,7 @@
 | [🚀 HTB Writeups - Machines](https://github.com/npx-official/HTB-WRITEUPS-MACHINES) | Complete exploitation guide with all steps | 🚧 In Development |
 | [Custom Exploit Scripts](link) | Custom exploit scripts for various vulnerabilities | 🚧 In Development |
 | [Bug Bounty Tools](link) | Automation tools for bug bounty hunting | 🚧 In Development |
-| [Arabic Cybersecurity Blog](link) | Articles and content in Arabic | 📝 In Writing |
+| [Eng Cybersecurity Blog](link) | Articles and content in Arabic | 📝 In Writing |
  [web-security-cheat-sheet](https://github.com/npx-official/web-security-cheat-sheet) | - | 🚧 In Development |  
 ## 📊 More Stats
 
