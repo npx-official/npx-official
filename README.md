@@ -68,7 +68,7 @@
 | 🎯 **Hack The Box** | [link](https://app.hackthebox.com/users/2207141) |
 | 🛡️ **Try Hack Me** | [link](https://tryhackme.com/p/npx.off) |
 | 🔗 **LinkedIn** | [link](https://www.linkedin.com/in/night-pulse-x-337a89275) |
-| 🧵 **Reddit** | [link](https://www.reddit.com/user0-0-OFF/) |
+| 🔴 **Reddit** | [link](https://www.reddit.com/user0-0-OFF/) |
 
 
 ⭐️ **Feel free to connect or collaborate!**  
