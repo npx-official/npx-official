@@ -23,7 +23,7 @@
 - 🔐 **Offensive Security Enthusiast** | CTF Player | Bug Bounty Hunter
 - 🎯 Currently working on: **OSCP Preparation** & **HTB Machines**
 - 📚 Learning: **Active Directory Pentesting** & **Cloud Security**
-- 🏆 Certifications: **eJPT** | **CPTS** (in progress)
+- 🏆 Certifications: **-** | **-** (in progress)
 
 ## 🛠️ Tech Stack
 
