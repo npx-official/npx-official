@@ -27,17 +27,6 @@
 
 ---
 
-## 📊 Stats That Matter
-
-<div align="center">
-
-| **31**<br>Total Writeups | **0**<br>Certifications | **3**<br>Months Active |
-|--------------------------|-------------------------|------------------------|
-| ![Writeups](https://img.shields.io/badge/-31-6fffe0?style=flat-square) | ![Certs](https://img.shields.io/badge/-0-ff6b35?style=flat-square) | ![Months](https://img.shields.io/badge/-3-a78bfa?style=flat-square) |
-
-</div>
-
----
 
 ## 🛠️ Tech Arsenal
 
