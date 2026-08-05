@@ -27,18 +27,6 @@
 
 ---
 
-## 📊 Stats That Matter
-
-<div align="center">
-
-| **31**<br>Total Writeups | **0**<br>Certifications | **3**<br>Months Active |
-|--------------------------|-------------------------|------------------------|
-| ![Writeups](https://img.shields.io/badge/-31-6fffe0?style=flat-square) | ![Certs](https://img.shields.io/badge/-0-ff6b35?style=flat-square) | ![Months](https://img.shields.io/badge/-3-a78bfa?style=flat-square) |
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <p align="center">
@@ -64,19 +52,6 @@
 | [⚡ NPX Framework](https://github.com/npx-official/npx-framework) | Ultimate Web Security Scanner |
 | [🔧 Custom Exploits](https://github.com/npx-official) | Collection of exploit scripts |
 | [📖 Security Blog](https://npx-official.github.io) | Articles & writeups |
-
----
-
-## 📈 GitHub Presence
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npx-official&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=6fffe0&icon_color=6fffe0" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npx-official&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=6fffe0" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark&hide_border=true&background=0a0a0f&stroke=6fffe0&ring=6fffe0&fire=6fffe0&currStreakLabel=6fffe0" width="70%"/>
-</div>
 
 ---
 
