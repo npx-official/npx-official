@@ -23,7 +23,7 @@
 > 🦊 Passionate about breaking things to build them better.  
 > 🎯 Currently focused on **OSCP Preparation** & **HTB Machines**  
 > 📚 Learning **Active Directory Pentesting** & **Cloud Security**  
-> 🏆 0 Certifications (working on it!)
+> 🏆 Certifications: **0** (working on it!)
 
 ---
 
