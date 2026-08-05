@@ -1,7 +1,6 @@
-
 # 🌙 NIGHT PULSE X
 
-> *Penetration Testing • Security Research • Future Ready*
+> *Penetration Testing · Security Research · Future Ready*
 
 <p align="center">
   <a href="https://npx-official.github.io/"><img src="https://img.shields.io/badge/🌐-Website-6fffe0?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -95,13 +94,8 @@
 ---
 
 <div align="center">
-  
-  ⭐️ **Feel free to connect or collaborate!**  
-  🚀 **Let's hack the world together!**
 
-  <img src="https://komarev.com/ghpvc/?username=npx-official&color=6fffe0&style=flat-square&label=Profile+Views" />
-  <br><br>
-  <i>⚡ "Hack the planet, not the people."</i>
+⭐️ **Feel free to connect or collaborate!**  
+🚀 **Let's hack the world together!**
 
 </div>
-
