@@ -56,18 +56,7 @@
 
 ---
 
-## 📈 GitHub Presence
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npx-official&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=6fffe0&icon_color=6fffe0" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npx-official&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=6fffe0" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark&hide_border=true&background=0a0a0f&stroke=6fffe0&ring=6fffe0&fire=6fffe0&currStreakLabel=6fffe0" width="70%"/>
-</div>
-
----
 
 ## 🌐 Let's Connect
 
