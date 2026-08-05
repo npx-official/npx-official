@@ -49,7 +49,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [📚 HTB Writeups](https://npx-official.github.io/writeups.html) | Complete walkthroughs for HackTheBox machines |
+| [📚 HTB Writeups](https://npx-official.github.io/writeups) | Complete walkthroughs for HackTheBox machines |
 | [⚡ NPX Framework](https://github.com/npx-official/npx-framework) | Ultimate Web Security Scanner |
 | [🔧 Custom Exploits](https://github.com/npx-official) | Collection of exploit scripts |
 | [📖 Security Blog](https://npx-official.github.io) | Articles & writeups |
