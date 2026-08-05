@@ -1,29 +1,35 @@
-# 👋 Hi, I'm  night pulse X
-                                                                           
-                                                                           
-     NNNNNNNN        NNNNNNNN  PPPPPPPPPPPPPPPPP      XXXXXXX       XXXXXXX     
-     N:::::::N       N::::::N  P::::::::::::::::P     X:::::X       X:::::X     
-     N::::::::N      N::::::N  P::::::PPPPPP:::::P    X:::::X       X:::::X     
-     N:::::::::N     N::::::N  PP:::::P     P:::::P   X::::::X     X::::::X     
-     N::::::::::N    N::::::N   P::::P     P:::::PX   XX:::::X   X:::::XXX     
-     N:::::::::::N   N::::::N   P::::P     P:::::P      X:::::X X:::::X        
-     N:::::::N::::N  N::::::N   P::::PPPPPP:::::P        X:::::X:::::X         
-     N::::::N N::::N N::::::N   P:::::::::::::PP          X:::::::::X          
-     N::::::N  N::::N:::::::N   P::::PPPPPPPPP            X:::::::::X          
-     N::::::N   N:::::::::::N   P::::P                   X:::::X:::::X         
-     N::::::N    N::::::::::N   P::::P                  X:::::X X:::::X        
-     N::::::N     N:::::::::N   P::::P               XXX:::::X   X:::::XXX     
-     N::::::N      N::::::::N  PP::::::PP             X::::::X     X::::::X     
-     N::::::N       N:::::::N  P::::::::P             X:::::X       X:::::X     
-     N::::::N        N::::::N  P::::::::P             X:::::X       X:::::X     
-     NNNNNNNN         NNNNNNN  PPPPPPPPPP             XXXXXXX       XXXXXXX     
-                                                                           
-                                                        
+```markdown
+# 👋 Hi, I'm Night Pulse X
+
+```
+NNNNNNNN        NNNNNNNN  PPPPPPPPPPPPPPPPP      XXXXXXX       XXXXXXX     
+N:::::::N       N::::::N  P::::::::::::::::P     X:::::X       X:::::X     
+N::::::::N      N::::::N  P::::::PPPPPP:::::P    X:::::X       X:::::X     
+N:::::::::N     N::::::N  PP:::::P     P:::::P   X::::::X     X::::::X     
+N::::::::::N    N::::::N   P::::P     P:::::PX   XX:::::X   X:::::XXX     
+N:::::::::::N   N::::::N   P::::P     P:::::P      X:::::X X:::::X        
+N:::::::N::::N  N::::::N   P::::PPPPPP:::::P        X:::::X:::::X         
+N::::::N N::::N N::::::N   P:::::::::::::PP          X:::::::::X          
+N::::::N  N::::N:::::::N   P::::PPPPPPPPP            X:::::::::X          
+N::::::N   N:::::::::::N   P::::P                   X:::::X:::::X         
+N::::::N    N::::::::::N   P::::P                  X:::::X X:::::X        
+N::::::N     N:::::::::N   P::::P               XXX:::::X   X:::::XXX     
+N::::::N      N::::::::N  PP::::::PP             X::::::X     X::::::X     
+N::::::N       N:::::::N  P::::::::P             X:::::X       X:::::X     
+N::::::N        N::::::N  P::::::::P             X:::::X       X:::::X     
+NNNNNNNN         NNNNNNN  PPPPPPPPPP             XXXXXXX       XXXXXXX     
+```
+
+---
+
 ## 🚀 About Me
+
 - 🔐 **Offensive Security Enthusiast** | CTF Player | Bug Bounty Hunter
 - 🎯 Currently working on: **OSCP Preparation** & **HTB Machines**
 - 📚 Learning: **Active Directory Pentesting** & **Cloud Security**
 - 🏆 Certifications: **-** | **-** (in progress)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -34,18 +40,25 @@
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-3E8E8E?style=flat) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat) |
 | **Domains** | ![Pentesting](https://img.shields.io/badge/-Pentesting-FF0000?style=flat) ![CTF](https://img.shields.io/badge/-CTF-00FF00?style=flat) ![Bug Bounty](https://img.shields.io/badge/-Bug%20Bounty-FFA500?style=flat) |
 
+---
+
 ## 🔥 GitHub Stats
 
-| Stats | Top Languages |
-|-------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=npx-official&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npx-official&layout=compact&theme=dark) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=npx-official&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npx-official&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+---
 
 ## 🏆 Achievements
 
 - 📝 **HTB Paperwork** - Complete machine walkthrough
 - 🛠️ **Custom Exploit Scripts** - Collection of exploit scripts
 - 🔍 **Bug Bounty Automation** - Automation tools for bug hunting
-- 📚 **Eng  Cybersecurity Content** - Eng content in cybersecurity
+- 📚 **Eng Cybersecurity Content** - Eng content in cybersecurity
+
+---
 
 ## 📌 Featured Projects
 
@@ -55,21 +68,40 @@
 | [Custom Exploit Scripts](link) | Custom exploit scripts for various vulnerabilities | 🚧 In Development |
 | [Bug Bounty Tools](link) | Automation tools for bug bounty hunting | 🚧 In Development |
 | [Eng Cybersecurity Blog](link) | Articles and content in Arabic | 📝 In Writing |
- [web-security-cheat-sheet](https://github.com/npx-official/web-security-cheat-sheet) | - | 🚧 In Development |  
+| [web-security-cheat-sheet](https://github.com/npx-official/web-security-cheat-sheet) | Web Security Cheat Sheet | 🚧 In Development |
+| [NPX Framework](https://github.com/npx-official/npx-framework) | Ultimate Web Security Scanner | ✅ Active |
+
+---
+
 ## 📊 More Stats
 
-| Streak | Trophies |
-|--------|----------|
-|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark) | ![Trophies](https://github-profile-trophy.vercel.app/?username=npx-official&theme=dark&no-frame=true&row=1) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npx-official&theme=dark" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=npx-official&theme=dark&no-frame=true&row=1" alt="Trophies" />
+</div>
+
+---
 
 ## 📫 How to Reach Me
+
 | Platform | Link |
 |----------|------|
 | 🎯 **Hack The Box** | [link](https://app.hackthebox.com/users/2207141) |
 | 🛡️ **Try Hack Me** | [link](https://tryhackme.com/p/npx.off) |
 | 🔗 **LinkedIn** | [link](https://www.linkedin.com/in/night-pulse-x-337a89275) |
 | 🔴 **Reddit** | [link](https://www.reddit.com/user0-0-OFF/) |
+| 🌐 **Website** | [npx-official.github.io](https://npx-official.github.io/) |
+| 🐙 **GitHub** | [github.com/npx-official](https://github.com/npx-official) |
 
+---
+
+<div align="center">
 
 ⭐️ **Feel free to connect or collaborate!**  
 🚀 **Let's hack the world together!**
+
+<img src="https://komarev.com/ghpvc/?username=npx-official&color=6fffe0&style=flat-square" alt="Profile Views" />
+
+</div>
+```
