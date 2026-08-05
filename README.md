@@ -52,7 +52,7 @@
 | [⚡ NPX Framework](https://github.com/npx-official/npx-framework) | Ultimate Web Security Scanner |
 | [🔧 Custom Exploits](https://github.com/npx-official) | Collection of exploit scripts |
 | [📖 Security Blog](https://npx-official.github.io) | Articles & writeups |
-
+| [🎯 Bug Bounty Learning Path](https://github.com/npx-official/Bug-Bounty-Learning-Path) | Structured roadmap for bug bounty beginners |
 ---
 
 ## 🌐 Let's Connect
