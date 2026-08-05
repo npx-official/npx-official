@@ -91,8 +91,8 @@ NNNNNNNN         NNNNNNN  PPPPPPPPPP             XXXXXXX       XXXXXXX
 | 🛡️ **Try Hack Me** | [link](https://tryhackme.com/p/npx.off) |
 | 🔗 **LinkedIn** | [link](https://www.linkedin.com/in/night-pulse-x-337a89275) |
 | 🔴 **Reddit** | [link](https://www.reddit.com/user0-0-OFF/) |
-| 🌐 **Website** | [npx-official.github.io](https://npx-official.github.io/) |
-| 🐙 **GitHub** | [github.com/npx-official](https://github.com/npx-official) |
+| 🌐 **Website** | [NIGHT PULSE X](https://npx-official.github.io/) |
+| 🐙 **GitHub** | [npx-official](https://github.com/npx-official) |
 
 ---
 
