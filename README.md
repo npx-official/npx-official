@@ -43,16 +43,17 @@
 </p>
 
 ---
-
 ## 🏆 Featured Work
 
-| Project | Description |
-|---------|-------------|
-| [📚 HTB Writeups](https://npx-official.github.io/writeups) | Complete walkthroughs for HackTheBox machines |
-| [⚡ NPX Framework](https://github.com/npx-official/npx-framework) | Ultimate Web Security Scanner |
-| [🔧 Custom Exploits](https://github.com/npx-official) | Collection of exploit scripts |
-| [📖 Security Blog](https://npx-official.github.io) | Articles & writeups |
-| [🎯 Bug Bounty Learning Path](https://github.com/npx-official/Bug-Bounty-Learning-Path) | Structured roadmap for bug bounty beginners |
+| Project | Category | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **📚 HTB Writeups** | `ctf` `walkthrough` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [View](https://npx-official.github.io/writeups) |
+| **⚡ NPX Framework** | `automation` `framework` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Repo](https://github.com/npx-official/npx-framework) |
+| **☁️ CloudScout** | `aws` `security` `auditing` | ![Beta](https://img.shields.io/badge/Status-Beta-yellow) | [Repo](https://github.com/npx-official/cloudscout) |
+| **🎯 Bug Bounty Learning Path** | `learning` `roadmap` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Repo](https://github.com/npx-official/Bug-Bounty-Learning-Path) |
+| **🔧 Custom Exploits** | `exploit` `poc` | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) | — |
+| **📖 Security Blog** | `blog` `research` | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) | — |
+
 ---
 
 ## 🌐 Let's Connect
