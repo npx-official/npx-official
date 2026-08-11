@@ -48,7 +48,7 @@
 
 | Project | Category | Status | Link |
 | :--- | :--- | :--- | :--- |
-| **📚 HTB Writeups** | `ctf` `walkthrough` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [View](https://npx-official.github.io/writeups) |
+| **📚 HTB Writeups** | `ctf` `walkthrough` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Live Site](https://npx-official.github.io/writeups) |
 | **⚡ NPX Framework** | `automation` `framework` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Repo](https://github.com/npx-official/npx-framework) |
 | **☁️ CloudScout** | `aws` `security` `auditing` | ![Beta](https://img.shields.io/badge/Status-Beta-yellow) | [Repo](https://github.com/npx-official/cloudscout) |
 | **🎯 Bug Bounty Learning Path** | `learning` `roadmap` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Live Site](https://npx-official.github.io/projects/Bug%20Bounty%20Learning%20Path/) · [Repo](https://github.com/npx-official/Bug-Bounty-Learning-Path) |
