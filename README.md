@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Metasploit-3E8E8E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
 </p>
-
 ---
 ## 🏆 Featured Work
 
@@ -50,10 +49,11 @@
 | **📚 HTB Writeups** | `ctf` `walkthrough` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [View](https://npx-official.github.io/writeups) |
 | **⚡ NPX Framework** | `automation` `framework` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Repo](https://github.com/npx-official/npx-framework) |
 | **☁️ CloudScout** | `aws` `security` `auditing` | ![Beta](https://img.shields.io/badge/Status-Beta-yellow) | [Repo](https://github.com/npx-official/cloudscout) |
-| **🎯 Bug Bounty Learning Path** | `learning` `roadmap` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Repo](https://github.com/npx-official/Bug-Bounty-Learning-Path) |
+| **🎯 Bug Bounty Learning Path** | `learning` `roadmap` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Live Site](https://npx-official.github.io/projects/Bug%20Bounty%20Learning%20Path/) · [Repo](https://github.com/npx-official/Bug-Bounty-Learning-Path) |
+| **⚔️ Arsenal — Red Team Encyclopedia** | `red team` `knowledge base` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Live Site](https://npx-official.github.io/projects/arsenal/) · [Repo](https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia) |
+| **🛡️ Bug Bounty Hunters Atlas** | `bug bounty` `research` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Live Site](https://npx-official.github.io/projects/Bug%20Bounty%20Hunters%20Atlas/) |
 | **🔧 Custom Exploits** | `exploit` `poc` | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) | — |
 | **📖 Security Blog** | `blog` `research` | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) | — |
-
 ---
 
 ## 🌐 Let's Connect
