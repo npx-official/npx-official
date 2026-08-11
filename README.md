@@ -41,7 +41,9 @@
   <img src="https://img.shields.io/badge/Metasploit-3E8E8E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
 </p>
+
 ---
+
 ## 🏆 Featured Work
 
 | Project | Category | Status | Link |
@@ -54,6 +56,7 @@
 | **🛡️ Bug Bounty Hunters Atlas** | `bug bounty` `research` | ![Active](https://img.shields.io/badge/Status-Active-6fffe0) | [Live Site](https://npx-official.github.io/projects/Bug%20Bounty%20Hunters%20Atlas/) |
 | **🔧 Custom Exploits** | `exploit` `poc` | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) | — |
 | **📖 Security Blog** | `blog` `research` | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey) | — |
+
 ---
 
 ## 🌐 Let's Connect
